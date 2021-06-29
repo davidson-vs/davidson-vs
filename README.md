@@ -1,4 +1,4 @@
-### Hi there I’m Davidson Vieira 👨‍💻
+### Hi there,I’m Davidson Vieira 👨‍💻
 
 
 - 🔭 I’m currently working on sintese jr from usp
