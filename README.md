@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I’m Davidson Vieira 👋
 
 - 🔭 I’m currently working on sintese jr from usp
 - 🌱 I’m currently learning web developing and artificial intelligence 
