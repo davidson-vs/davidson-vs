@@ -1,8 +1,5 @@
 ### <h1>Hi there,I’m Davidson Vieira 👨‍💻</h1>
 
-- 🔭 I’m currently working on sintese jr from usp
-- 🌱 I’m currently learning web developing and learn machine 
-- 🎓 I do my graduation at usp
 
 <div>
   <a href="https://github.com/davidson-vs">
@@ -17,7 +14,14 @@
   <img align="center" alt="DV-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="DV-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
-  
+  <div>
+    
+- 🔭 I’m currently working on sintese jr from usp
+- 🌱 I’m currently learning web developing and learn machine 
+- 🎓 I do my graduation at usp
+
+    
+  <div>
 
   ##
 
