@@ -1,9 +1,11 @@
 ### <h1>Hi there,I’m Davidson Vieira 👨‍💻</h1>
 
-- 🔭 I’m currently working on sintese jr from usp
-- 🌱 I’m currently learning web developing and learn machine 
-- 🎓 I do my graduation at usp
-
+<h2>I'm a Frontend Developer</h2>
+<ul>
+  <li>- 🔭 I’m currently working on sintese jr from usp</li>
+  <li>- 🌱 I’m currently learning web developing and learn machine </li>
+  <li> - 🎓 I do my graduation at usp</li>
+</ul>
 <div>
   <a href="https://github.com/davidson-vs">
   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=davidson-vs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
