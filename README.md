@@ -2,9 +2,9 @@
 
 <h2>I'm a Frontend Developer</h2>
 <ul>
-  <li>- 🔭 I’m currently working on sintese jr from usp</li>
-  <li>- 🌱 I’m currently learning web developing and learn machine </li>
-  <li> - 🎓 I do my graduation at usp</li>
+  <li> 🔭 I’m currently working on sintese jr from usp</li>
+  <li> 🌱 I’m currently learning web developing and learn machine </li>
+  <li>  🎓 I do my graduation at usp</li>
 </ul>
 <div>
   <a href="https://github.com/davidson-vs">
