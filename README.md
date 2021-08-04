@@ -41,7 +41,7 @@
 <h3>## 🙋‍♂️ About Me</h3>
 <br/>
 <ul>
-  <li> :brazil: I’m from Brazil</li>
+  
   <li> 📍  I live in São Paulo</li>    
   <li> 🔭 I’m currently working on sintese jr from usp</li>
   <li> 🌱 I’m currently learning web developing and learn machine </li>
