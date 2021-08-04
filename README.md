@@ -41,8 +41,8 @@
 <h3>## 🙋‍♂️ About Me</h3>
 <br/>
 <ul>
-  
-  <li> 📍  I live in São Paulo</li>    
+  <li> 🇧🇷 I’m from Brazil</li>
+  <li> 📍 I live in São Paulo</li>    
   <li> 🔭 I’m currently working on sintese jr from usp</li>
   <li> 🌱 I’m currently learning web developing and learn machine </li>
   <li> 🎓 I do my graduation at usp</li>
@@ -62,4 +62,3 @@
 
 
  ![Snake animation](https://github.com/davidson-vs/davidson-vs/blob/output/github-contribution-grid-snake.svg)
-
