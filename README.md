@@ -51,7 +51,6 @@
 
 <br/>
   
-##
   
 <div>  
   <a href = "mailto:davidson.vieiras27@gmail.com"><img src="https://img.shields.io/badge/-Gmail-E6E6FA?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
@@ -60,5 +59,6 @@
  
 </div>
 
-
+##
+    
  ![Snake animation](https://github.com/davidson-vs/davidson-vs/blob/output/github-contribution-grid-snake.svg)
