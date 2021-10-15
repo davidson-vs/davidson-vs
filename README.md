@@ -45,8 +45,7 @@
 <ul>
   <li> 🇧🇷 I’m from Brazil</li>
   <li> 📍 I live in São Paulo</li>    
-  <li> 🔭 I’m currently working on sintese jr from usp</li>
-  <li> 🌱 I’m currently learning web developing and learn machine </li>
+  <li> 🌱 I’m currently learning web development, data science and IA </li>
   <li> 🎓 I do my graduation at USP</li>
 </ul>
 <div>
