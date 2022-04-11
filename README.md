@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Davidson</h1>
 
-<h2>I'm a Full Stack Developer 👨‍💻</h2>
+<h2>I'm a Data Scientist and Full Stack Developer 👨‍💻</h2>
 <br/>
 <p align="center">
     <a href="https://github.com/davidson-vs/github-readme-streak-stats">
