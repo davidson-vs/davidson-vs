@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Davidson</h1>
 
-<h2>I'm a Data Scientist and Full Stack Developer 👨‍💻</h2>
+<h2>I'm a Full Stack Developer and Process Automator 👨‍💻</h2>
 <br/>
 <p align="center">
     <a href="https://github.com/davidson-vs/github-readme-streak-stats">
@@ -28,13 +28,16 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="DV-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="DV-django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"> 
+  <img align="center" alt="DV-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+    <img align="center" alt="DV-bootsrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+    <img align="center" alt="DV-selenium" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
   <img align="center" alt="DV-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
   <img align="center" alt="DV-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="DV-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="DV-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="DV-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="DV-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="DV-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="DV-docker" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+    <img align="center" alt="DV-docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
   <img align="center" alt="DV-GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
   
@@ -48,7 +51,7 @@
   <li> 📍 I live in São Paulo</li>    
   <li>🌱 I’m currently learning web development, data science and IA </li>
   <li>💻 I’m currently working in an investment manager</li>
-  <li>🎓 I'm graduatin in information systems at USP</li>
+  <li>🎓 I'm graduating in information systems at USP</li>
 </ul>
 <div>
 
