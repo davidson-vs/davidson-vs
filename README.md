@@ -49,7 +49,7 @@
 <ul>
   <li> 🇧🇷 I’m from Brazil</li>
   <li> 📍 I live in São Paulo</li>    
-  <li>🌱 I’m currently learning web development, data science and IA </li>
+  <li>🌱 I’m currently learning web development, process automation and AI </li>
   <li>💻 I’m currently working in an investment manager</li>
   <li>🎓 I'm graduating in information systems at USP</li>
 </ul>
